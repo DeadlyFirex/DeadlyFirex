@@ -14,9 +14,8 @@ Besides programming, I love reading, swimming, experiementing with embedded syst
 - [PrimoTracker](https://github.com/DeadlyFirex/PrimoTracker): Flask-based microservice that tracks and stores account balance of clients.   
 - [PingTool](https://github.com/DeadlyFirex/PingTool): Python multithreading socket-based server that enables clients to ping each other.
   - [PingTool-client](https://github.com/DeadlyFirex/PingTool/blob/main/client.py): Showcase client for `PingTool`.
-- [Fukuto](https://github.com/DeadlyFirex/Fukuto): Cross-platform, lightweight C++ system administration utility based on GLFW and ImGui.
+- [Fukuto](https://github.com/DeadlyFirex/Fukuto): Cross-platform, lightweight C++23 system administration utility built with GLFW / ImGui.
 - [CascadeBot](https://github.com/CascadeBot/CascadeBot-Old): An advanced, fully configurable Discord administration bot.
-
 
 ## Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&label=DeadlyFirex)](https://discord.com/) [![Wakatime](https://img.shields.io/badge/Wakatime-Activity-green)]([mailto:info.deadlyfirex@gmail.com](https://wakatime.com/@DeadlyFirex)) [![Mail](https://img.shields.io/badge/Email-Contact-blue)](mailto:info.deadlyfirex@gmail.com)

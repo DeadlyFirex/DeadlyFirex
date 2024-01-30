@@ -11,7 +11,8 @@ Besides programming, I love reading, swimming, experiementing with embedded syst
 
 ## Projects
 - [OrderServer](https://github.com/DeadlyFirex/OrderServer): Experimental microservice serving a platform for clients to place product orders at.
-- [PrimoTracker](https://github.com/DeadlyFirex/PrimoTracker): Flask-based microservice that tracks and stores account balance of clients.   
+- [PrimoTracker](https://github.com/DeadlyFirex/PrimoTracker): Flask-based microservice that tracks and stores account balance of clients.
+- [YAFET](https://github.com/DeadlyFirex/YAFET): Yet-another-file-encryption-tool, a lightweight and crossplatform C++23 utility designed encrypt data.
 - [PingTool](https://github.com/DeadlyFirex/PingTool): Python multithreading socket-based server that enables clients to ping each other.
   - [PingTool-client](https://github.com/DeadlyFirex/PingTool/blob/main/client.py): Showcase client for `PingTool`.
 - [Fukuto](https://github.com/DeadlyFirex/Fukuto): Cross-platform, lightweight C++23 system administration utility built with GLFW / ImGui.

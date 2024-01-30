@@ -9,6 +9,9 @@ Besides programming, I love reading, swimming, experiementing with embedded syst
 ## Activity
 ![Wakatime Activity](https://wakatime.com/share/@DeadlyFirex/31f7d39e-53cc-4d27-9f23-bf8ddd9ac608.svg)
 
+## Languages
+![GitHub Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DeadlyFirex&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&theme=dark)
+
 ## Projects
 - [OrderServer](https://github.com/DeadlyFirex/OrderServer): Experimental microservice serving a platform for clients to place product orders at.
 - [PrimoTracker](https://github.com/DeadlyFirex/PrimoTracker): Flask-based microservice that tracks and stores account balance of clients.

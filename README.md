@@ -1,5 +1,5 @@
 # About me 💫
-Hello, my nickname is Deadly or DeadlyFirex. I'm a 19 year old software engineer from the Netherlands, I've been an enthusiastic programmer since the age of 14, and I'm fascinated by software, embedded systems, backend development, Linux and microservices.
+Hello, my nickname is Deadly. I'm a young aspiring software engineer, I've been an enthusiastic programmer since the age of 14, and I'm fascinated by software, embedded systems, backend development, Linux and microservices.
 
 I have strong confidence in most backend-centric languages, such as Java, Python and C# / C++.
 I mostly develop for small local startups and local businesses to simplify their processes, although I also develop open-source software.
